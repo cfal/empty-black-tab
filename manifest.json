@@ -1,0 +1,11 @@
+{
+  "name": "Empty Black Tab",
+  "version": "0.1",
+  "manifest_version": 2,
+  "icons": {
+    "16": "transparent.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "empty.html"
+  }
+}
